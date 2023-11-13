@@ -64,7 +64,7 @@ Prerequisites:
 Node.js and npm installed.
 MongoDB installed and running.
 Installation:
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository: git clone https://github.com/amuzatk/CRUD-Contact-List.git
 Install dependencies: npm install
 Set up environment variables as needed.
 Start the server: npm start

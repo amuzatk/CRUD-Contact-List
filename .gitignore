@@ -1,0 +1,15 @@
+/node_modules
+.env
+
+
+
+# tutor: Dipesh Malvia
+# title: Learn Node.js & Express with Project in 2 Hours
+
+# KAZMATICS-CONTACTS-BACKEND
+# username: amuzatk
+# pwd: oYcOEKfMJy1WNk7o  
+# mongodb+srv://amuzatk:oYcOEKfMJy1WNk7o@kazmaticscluster.yzvkl2u.mongodb.net/kazmatics-contacts-backend
+
+# I later used this connection string, because above string was having IP Address issue
+# mongodb+srv://medic2023:medic123456@cluster0.hni0be3.mongodb.net/centrifuge-task
